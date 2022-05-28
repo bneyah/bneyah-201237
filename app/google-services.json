@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755705999381",
+    "project_id": "bneyah-201237",
+    "storage_bucket": "bneyah-201237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755705999381:android:c83a13c3498a758daade1c",
+        "android_client_info": {
+          "package_name": "com.app.bneyah_201237"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755705999381-sf0q5g8nga9o4jdcn4vdta88s0hmopgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnAft2gaceoNnbCRHKDDVKYJ-Ss6--Ze0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755705999381-sf0q5g8nga9o4jdcn4vdta88s0hmopgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

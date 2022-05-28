@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SE-328 2022S</string>
+    <string name="std_name">Student Name</string>
+    <string name="std_id">Student ID</string>
+    <string name="next">Next</string>
+    <string name="firebasedb">FirebaseDB</string>
+    <string name="sqllite">SQLlite</string>
+    <string name="insert_firebase">Add Students Record-FB</string>
+    <string name="get_firebase">Get All Students Record-FB</string>
+    <string name="get_sqllite">Get All Students Record-SQLLite</string>
+    <string name="get_specific_data">Get Specific Students Record-FB</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="app_id">5fc337f100d860b7f85f9bfa98b671b9</string>
+    <string name="clouds_">Clouds:</string>
+    <string name="temperature_">Temperature:</string>
+    <string name="humidity_">Humidity:</string>
+    <string name="student_id_">Student ID:</string>
+    <string name="student_id">Student ID</string>
+    <string name="id">ID</string>
+    <string name="name_">Name:</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="name">Name</string>
+    <string name="save_sqllite">Save|SQLlite</string>
+    <string name="enter_city">Enter City</string>
+    <string name="get">Get</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="sur_name">Sur Name</string>
+    <string name="father_name">Father Name</string>
+    <string name="national_id">National ID</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Gender</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+</resources>
